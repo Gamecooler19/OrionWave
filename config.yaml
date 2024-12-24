@@ -1,0 +1,9 @@
+CHUNK: 1024
+FORMAT: 16
+CHANNELS: 1
+RATE: 44100
+EFFECTS:
+  pitch_shift:
+    default_shift: 200
+  robot_effect:
+    enabled: true

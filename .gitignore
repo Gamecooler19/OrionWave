@@ -1,0 +1,6 @@
+*.json
+*.log
+
+orionwave.egg-info/
+
+__pycache__/
